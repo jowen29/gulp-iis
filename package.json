@@ -1,0 +1,35 @@
+{
+  "name": "gulp-iis",
+  "version": "1.0.0",
+  "description": "Server Side Includes for NodeJS",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jowen29/gulp-iis.git"
+  },
+  "dependencies": {
+    "glob": "~3.2.1",
+    "mkdirp": "~0.3.5"
+  },
+  "devDependencies": {
+    "mocha": "~1.10.0"
+  },
+  "author": "jowen29",
+  "license": "ISC",
+  "keywords": [
+    "gulp",
+    "gulp-iis",
+    "iis"
+  ],
+  "bugs": {
+    "url": "https://github.com/jowen29/gulp-iis/issues"
+  },
+  "homepage": "https://github.com/jowen29/gulp-iis#readme"
+}
